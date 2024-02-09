@@ -1,14 +1,15 @@
-# Task 1
+# New-York-Jobs-CEO-Council-Financial-Analyst
+
 ## Background information
 Your vice president sends you an Excel template containing BigTechCompany's quarterly financial statements and a PowerPoint template to complete. Your task is to prepare tables on the company's financials and to present your analysis in a PowerPoint presentation.
 
-### Financial metrics : revenue, operating income (EBITDA), net income, and free cash flow, EBITDA margin and debt/EBITDA.
+### Financial metrics: revenue, operating income (EBITDA), net income, and free cash flow, EBITDA margin and debt/EBITDA.
 
-# Result: What trends do you see in the company's financials? Is the company stable, or is it in decline? Are there any red flags that would make this company high risk?
+### Result: What trends do you see in the company's financials? Is the company stable, or is it in decline? Are there any red flags that would make this company high risk?
 
-# Guide: Your bank wants to avoid companies with negative free cash flow and unhealthy leverage ratios.
+### Guide: Your bank wants to avoid companies with negative free cash flow and unhealthy leverage ratios.
 
-# Key Terms:
+### Key Terms:
 * Financial statements: A company's core financial statements are the income statement, balance sheet, and statement of cash flows.
 * Revenue: The money earned by a company in exchange for providing goods and services.
 * Operating income (EBITDA): The amount of profit a company makes from its operations. This is calculated by subtracting operating expenses from revenue. EBITDA stands for “earnings before interest, taxes, depreciation, and amortization.”
