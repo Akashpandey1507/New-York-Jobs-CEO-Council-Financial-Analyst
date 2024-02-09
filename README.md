@@ -17,3 +17,7 @@ Your vice president sends you an Excel template containing BigTechCompany's quar
 * EBITDA margin: A metric of a company's profitability. This is calculated by dividing a company's operating income (a.k.a. EBITDA) by revenue.
 * Debt/EBITDA: A metric of a company's leverage. This is calculated by dividing a company's debt by its EBITDA.
 * Leverage ratios: Metrics that provide insight into a company's debt relative to its earnings. A company with high leverage ratios may run into difficulty with making debt payments.
+
+#### [Check out the simulation here:](https://www.theforage.com/simulations/new-york-jobs-ceo-council/financial-analyst-fko2)
+
+![image](https://github.com/Akashpandey1507/New-York-Jobs-CEO-Council-Financial-Analyst/assets/124170332/77fc9b1e-debb-4796-a292-e9d041326d54)
