@@ -18,4 +18,5 @@ Your vice president sends you an Excel template containing BigTechCompany's quar
 * Debt/EBITDA: A metric of a company's leverage. This is calculated by dividing a company's debt by its EBITDA.
 * Leverage ratios: Metrics that provide insight into a company's debt relative to its earnings. A company with high leverage ratios may run into difficulty with making debt payments.
 
-![image](https://github.com/Akashpandey1507/New-York-Jobs-CEO-Council-Financial-Analyst/assets/124170332/77fc9b1e-debb-4796-a292-e9d041326d54)
+![image](https://github.com/Akashpandey1507/New-York-Jobs-CEO-Council-Financial-Analyst/assets/124170332/9b69a4a4-5ec0-423f-bd26-b4d5977011ff)
+
